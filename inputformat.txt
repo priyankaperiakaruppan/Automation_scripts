@@ -1,0 +1,4 @@
+sno	id	name	postcode	websitelink	gpinstatus	custmer_level	city 	liscencekey
+19999	853184 Taza Grill	WF16 0JD	tazagrillonline.co.uk	completed	7	West Yorkshire	591be660aab07e60f459f767b453e0e3 
+20000	853188	King Kone	KA13 6LB	pizzafactorykilwinning.co.uk	completed	7	Kilwinning	38e32c3815d35d66644933ac51bc6f0f 
+20001	853192	0161 Burger	M25 1LP	0161burger.com	completed	7	Manchester	34d9ea45f9891580b208931cd894c150 
